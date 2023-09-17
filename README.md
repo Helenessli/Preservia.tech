@@ -1,5 +1,5 @@
-# HTNXTAFH
-Theodore, Helen, Alex, Freddy
+# Preservia.tech
+Hack the North 2023 Project developed by Theodore, Helen, Alex, Freddy
 
 ## How to run
 1. Install the requirements
