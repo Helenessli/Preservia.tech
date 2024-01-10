@@ -1,6 +1,7 @@
 # Preservia.tech
 Hack the North 2023 Project developed by Theodore, Helen, Alex, Freddy
 
+More details are available on Devpost: https://devpost.com/software/expierly
 ## How to run
 1. Install the requirements
 2. Init the database with `flask db init`
