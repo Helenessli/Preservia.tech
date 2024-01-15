@@ -26,7 +26,7 @@ Inventory: The user interface offers intuitive control, allowing users to delete
 
 Recipes: Additionally, users can select food items in their grocery inventory and prompt the application to suggest a recipe based on selected ingredients.
 
-How we built it
+## How we built it
 Preservia.tech is built around leveraging Large Language Models (Cohere) as flexible databases and answer engines, here to give nuanced answers about expiration, for even the most specific food! This allows us to enter any possible food item, and the AI systems will do their best to understand and classify them. The predictive power of Preservia.tech will only expand as LLMs grow.
 
 OpenAI’s GPT-4 was also used as a flexible system to accurately decipher cryptic and generally unstandardized receipts, a task probably impossible without such models. GPT-4 is also the engine generating recipes.
